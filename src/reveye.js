@@ -5,6 +5,11 @@ var services = {
   "yandex": ["Yandex", "Yandex search", "https://yandex.com/images/search?rpt=imageview&url=", "image"],
   "baidu": ["Baidu", "Baidu search", "http://image.baidu.com/n/pc_search?queryImageUrl=","image"],
   "tineye": ["TinEye", "TinEye search", "https://www.tineye.com/search/?url=", "image","page"],
+  "saucenao": ["SauceNAO", "SauceNAO search", "https://saucenao.com/search.php?url=", "image"],
+  "iqdb": ["iqdb", "iqdb search", "https://iqdb.org/?url=", "image"],
+  "karma": ["KarmaDecay", "KarmaDecay search", "http://karmadecay.com/search?q=", "image"],
+  "sogou": ["sogou", "sogou search", "https://pic.sogou.com/ris?query=", "image"],
+  "360": ["360", "360 search", "https://st.so.com/stu?submittype=imgurl&src=image&srcsp=st_search&imgurl=", "image"],
 //  "cydral": ["Cydral", "Cydral search", "http://www.cydral.com/#url=", "image"],
 //  "gazopa": ["GazoPa", "GazoPa search", "http://www.gazopa.com/similar?key_url=", "image"],
 };
